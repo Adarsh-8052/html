@@ -1,0 +1,27 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+
+
+h1{
+    background-color: gray;
+    color:  blue;
+    text-align: center;
+    width: 200;
+}
+h2{
+    background-color: yellow;
+    color:  blue;
+    text-align: center;
+}
+h6{
+    background-color: papayawhip;
+    color: purple;
+    text-align: center;
+}
+p{
+    background-color: aqua;
+    color: red;
+}

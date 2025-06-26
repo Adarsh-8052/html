@@ -1,0 +1,40 @@
+*{
+    margin: 0%; 
+    padding: 0%; 
+}
+
+html,body {
+    width: 100%;
+    height:100%;
+}
+
+body {
+    background-color: antiquewhite;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+div{
+    justify-content: center;
+    width: 30%;
+    height:30%;
+    font-size: x-large;
+    font-family: arial;
+    align-items: center;
+    text-align: center;
+    display: flex;
+    
+}
+
+#Box1{
+    background-color: aqua;
+    
+    
+} 
+
+#Box2{
+    background-color: yellow;
+    
+}
+
